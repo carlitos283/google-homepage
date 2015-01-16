@@ -1,0 +1,21 @@
+.search-container {
+  position: relative;
+}
+
+img.logo {
+  margin: 100px auto 28px;
+  width: 266px;
+  display: block;
+}
+
+input.search-box {
+  margin: 0 auto 16px;
+  display: block;
+  width: 570px;
+  height: 27px;
+}
+
+.buttons {
+  margin: 0 auto;
+  width: 206px;
+}
